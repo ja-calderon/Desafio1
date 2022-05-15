@@ -231,7 +231,8 @@
 }
 @media(min-width:1440px) {
 *{
-    max-height: 10240px;
+    max-width: 1440px;
+    margin: auto;
 }
 header img{
     width: 2%;
@@ -263,7 +264,8 @@ main{
 }
 .cuadro-mensaje{
    justify-content: center;
-   align-items: center
+   align-items: center;
+   height: 80vh;
 }
 .cuadro-mensaje img{
     max-width: 35vh;
@@ -272,8 +274,7 @@ main{
     visibility: visible;
 }
 .cuadrosalida, .cuadro-mensaje{
- 
-    width: 80%;
+     width: 80%;
 }
 .resultado{
     height: 65vh;
