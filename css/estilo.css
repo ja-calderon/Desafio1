@@ -272,7 +272,7 @@ main{
     visibility: visible;
 }
 .cuadrosalida, .cuadro-mensaje{
-    height: 70vh;
+ 
     width: 80%;
 }
 .resultado{
